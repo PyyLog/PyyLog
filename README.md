@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pritam !!! ✨</h1>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritamcharles&theme=tokyonight" alt="pritamcharles" /></a> </p>
 
-<hé align="left">About me:</h2>
+<h2 align="left">About me:</h2>
 
 - 📖 Studying **Aerospace Engineering** ✈️. (4th year)
 
