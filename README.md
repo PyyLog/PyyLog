@@ -2,13 +2,14 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritamcharles&theme=tokyonight" alt="pritamcharles" /></a> </p>
 
 <h3 align="left">About me:</h3>
+
 - 📖 Studying **Aerospace Engineering** ✈️. (4th year)
 
 - 🌱 I'm currently learning **ML** and **AI**. 🤩
 
-- 💬 Ask me about ****Python**, **MATLAB**, **Arduino**.
+- 💬 Ask me about **Python**, **MATLAB**, **Arduino**.
 
-- 📫 How to reach me: charles.kantane@outlook.fr
+- 📫 How to reach me: **charles.kantane@outlook.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritamcharles&show_icons=true&theme=tokyonight&locale=en" alt="pritamcharles" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritamcharles&theme=tokyonight-duo" alt="pritamcharles" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritamcharles&theme=tokyonight" alt="pritamcharles" /></p>
