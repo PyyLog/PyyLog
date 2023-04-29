@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Pritam !!! ✨</h1>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=25&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Pritam+!!!+%E2%9C%A8;Welcome+on+my+GitHub+profile+!" alt="Typing SVG">
+</p>
+
+
 <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=pritamcharles&theme=tokyonight" alt="pritamcharles" />
