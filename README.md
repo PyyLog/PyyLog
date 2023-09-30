@@ -9,7 +9,7 @@
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=pritamcharles&theme=tokyonight" alt="pritamcharles" />
+        <img src="https://github-profile-trophy.vercel.app/?username=pyylog&theme=tokyonight" alt="pritamkantane" />
     </a>
 </p>
 
@@ -88,15 +88,15 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Statistics:</b>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pritamcharles&show_icons=true&theme=tokyonight&locale=en" alt="pritamcharles" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pyylog&show_icons=true&theme=tokyonight&locale=en" alt="pritamkantane" />
 </p>
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=pritamcharles&show_icons=true&theme=tokyonight&locale=en" alt="pritamcharles" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pyylog&show_icons=true&theme=tokyonight&locale=en" alt="pritamkantane" />
 </p>
 
 <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritamcharles&theme=tokyonight" alt="pritamcharles" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pyylog&theme=tokyonight" alt="pritamkantane" />
 </p>
 
 <p align="center">
