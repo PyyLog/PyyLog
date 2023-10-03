@@ -17,20 +17,20 @@
 
 <h2>About me:</h2>
 
-- 📖 Studying **Aerospace Engineering** ✈️. (4th year)
+- 📖 Studying **Aerospace Engineering**. ✈️ (5th year)
 
-- 🌱 I'm currently learning **ML** and **AI**. 🤩
+- 🌱 I'm currently learning **ML/DL** and **AI**. 🤩
 
 - 💬 Ask me about **Python**, **MATLAB**, **Arduino**.
 
-- 📫 How to reach me: **charles.kantane@outlook.fr**
+- 📫 How to reach me: **pritam.kantane@outlook.fr**
 
 <br>
 
 ## <img src="assets/gif/handshake.gif" width="45"><b> Connect with me:</b>
 <p>
     <a href="https://www.linkedin.com/in/pritam-charles-kantane-102b92190/" target="blank">
-        <img src="assets/ico/linkedin.png" alt="pritamcharles" height="40" width="40" />
+        <img src="assets/ico/linkedin.png" alt="pritamkantane" height="40" width="40" />
     </a>
 </p>
 
