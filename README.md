@@ -17,13 +17,13 @@
 
 <h2>About me:</h2>
 
-- 📖 Studying **Aerospace Engineering**. ✈️ (5th year)
+- 📖 Studying **Aerospace Engineering**. ✈️ (5th year, currently in final year internship)
 
 - 🌱 I'm currently learning **ML/DL** and **AI**. 🤩
 
-- 💬 Ask me about **Python**, **MATLAB**, **Arduino**.
+- 💬 Ask me about **Python**, **MATLAB**, **GenAI**.
 
-- 📫 How to reach me: **pritam.kantane@outlook.fr**
+- 📫 How to reach me: **pritam.kantane01@gmail.com**
 
 <br>
 
