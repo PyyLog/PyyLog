@@ -13,7 +13,7 @@
 
 <h2>About me:</h2>
 
-- 📖 Graduated in Aerospace engineering with a great enthusiasm for **Data Science/ GenAI** and **Software Engineering/ Development**
+- 📖 Graduated in Aerospace engineering with a great enthusiasm for **Software Engineering/ Development** and **Data Science/ GenAI**
 
 - 💬 Ask me about **Python**, **Software Development**, **ML/ DL**, **GenAI**.
 
